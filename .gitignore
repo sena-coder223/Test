@@ -1,0 +1,10 @@
+node_modules/
+dist/
+video/out/
+video/public/ambient.m4a
+*.mp4
+*.mov
+*.webm
+.DS_Store
+.env
+.env.*
